@@ -10,4 +10,9 @@ public class TestCase1
 		System.out.println("method1 added from Eclipse");
 	}
 
+	@Test
+	public void method2()
+	{
+		System.out.println("method2 added from Eclipse");
+	}
 }
