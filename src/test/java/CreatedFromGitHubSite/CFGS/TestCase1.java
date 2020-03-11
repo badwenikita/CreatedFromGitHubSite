@@ -15,4 +15,10 @@ public class TestCase1
 	{
 		System.out.println("method2 added from Eclipse");
 	}
+	
+	@Test
+	public void method3()
+	{
+		System.out.println("method3 added from Eclipse");	// Scenario 1
+	}
 }
